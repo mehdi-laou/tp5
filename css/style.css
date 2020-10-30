@@ -1,0 +1,76 @@
+.footer-item{
+  color: #aab8c2;
+  font-size: 12px;
+  margin-right: 2%;
+}
+
+.footer-item:hover{
+  color: #aab8c2;
+  text-decoration: underline;
+}
+
+.twitter-filled-btn{
+   background-color: #1da1f2;
+   border-radius: 100px;
+   color: white;
+   border: 0px;
+   font-weight: bold;
+}
+.twitter-filled-btn:hover{
+  background-color: #006dbf;
+  color:white;
+}
+
+.twitter-unfilled-btn{
+  background-color: transparent;
+  border-radius: 100px;
+  color: #1da1f2;
+  border: 1px solid #1da1f2;
+  font-weight: bold;
+}
+
+.twitter-unfilled-btn:hover{
+  background-color: #eaf5fd;
+  color: #1da1f2;
+  border: 1px solid #1da1f2;
+}
+
+.twitter-fullwidth-btn{
+  width: 100%;
+}
+
+.twitter-color{
+  color: #1da1f2;
+}
+
+.twitter-headline{
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.twitter-main-logo{
+  font-size: 27px;
+}
+
+.twitter-subtitle{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.has-small-margin-bottom{
+  margin-bottom: 3%;
+}
+
+.twitter-background-color{
+  background-color: #1da1f2;
+}
+
+.twitter-text-item{
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10%;
+}
+.twitter-text-item span{
+  margin-left: 2%;
+}
