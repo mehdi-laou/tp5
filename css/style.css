@@ -1,3 +1,15 @@
+.hero-body{
+  padding: 0;
+}
+.container{
+  margin: 0;
+}
+
+.has-fullwidth{
+  width: 100%;
+  max-width: 100%;
+}
+
 .footer-item{
   color: #aab8c2;
   font-size: 12px;
